@@ -7,11 +7,11 @@
 
 # Site settings
 title: Malayalam Animations
-email: contact@justinechacko.in
+email: contact@monsoonmalabar.com
 description: > # this means to ignore newlines until "baseurl:"
   Malayalam animation videos
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://anime.justinechacko.in" # the base hostname & protocol for your site
+url: "http://anime.monsoonmalabar.com" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  
 
